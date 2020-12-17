@@ -1,5 +1,5 @@
 {
-  "name": "breakout-src",
+  "name": "breakout-app",
   "version": "1.0.0",
   "description": "",
   "main": "views/main.html",
